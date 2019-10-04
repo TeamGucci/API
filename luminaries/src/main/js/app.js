@@ -1,8 +1,6 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 const client = require('./client');
-import logo from './logo.svg';
-import './App.css';
 
 class App extends React.Component {
 
